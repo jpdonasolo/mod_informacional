@@ -1,0 +1,27 @@
+Todo produto pertence a um lote
+
+Instâncias diferentes de um produto podem possuir lotes diferentes ou iguais
+
+Um produto pode ter vários fornecedores
+
+Um fornecedor pode suprir vários produtos
+
+Um produto pode ser suprido por vários fornecedores
+
+As instâncias do produto podem estar armazenadas em diferentes locais (gôndola, almoxarifado ou vendido)
+
+A entrada e saída de produtos da loja é controlada por lote (para controle). Já o lote dos produtos dentro da loja não importa (o lote de um produto na gôndola, por exemplo)
+
+As gôndolas e o almoxarifado possuem numeração de prateleiras
+
+Os clientes precisam estar cadastrados
+
+Os clientes podem fazer várias compras
+
+Os clientes podem acompanhar produtos faltantes até que haja estoque
+
+Cada compra possui um número e quantidade associados de produtos (e seus respectivos lotes)
+
+Todos os funcionários estão cadastrados
+
+Os funcionários podem ser gerente ou vendedor
